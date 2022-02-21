@@ -1,0 +1,1 @@
+simple buddhabrot generator
